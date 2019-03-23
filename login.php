@@ -16,7 +16,6 @@
 	</head>
 	<body>
 		<form method="post" action="course.php">
-			Pseudo
 			<select name="pseudo">
 				<?php
 				foreach ($members as $member) {
